@@ -413,21 +413,21 @@ body{
 }
 .container .cloud:first-child::before{
     position: absolute;
-    content: 'Hãy ấn vào thư em nhé';
+    content: 'Bấm vào thư đi lẹ coi';
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     width: 60px;
-    font-size: 9px;
+    font-size: 10px;
     align-items: center;
     z-index: 100000;
 }
 .container .cloud:last-child::before{
     position: absolute;
-    content: 'hê sờ lô, hơ sờ ly ly';
+    content: 'Chào Tiên dễ thương nha, moazzz';
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
-    font-size: 9px;
+    font-size: 10px;
     align-items: center;
     z-index: 100000;
 }
