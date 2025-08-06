@@ -424,7 +424,7 @@ body{
 }
 .container .cloud:last-child::before{
     position: absolute;
-    content: 'Chào Tiên dễ thương nha, moazzz';
+    content: 'Chào Tiên dễ thương nha';
     font-family: 'Roboto', sans-serif;
     font-weight: 600;
     font-size: 10px;
